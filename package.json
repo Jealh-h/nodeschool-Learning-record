@@ -1,0 +1,17 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodebot-workshop": "nodebot-workshop"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.2",
+    "nodebot-workshop": "^3.2.1",
+    "through2-map": "^3.0.0"
+  }
+}
