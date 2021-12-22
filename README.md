@@ -5,8 +5,9 @@ nodeschool: [https://nodeschool.io/zh-cn/](https://nodeschool.io/zh-cn/)
 FINISH:
 
 - learnyounode
+- count-to-6
+- tower-of-babel
 
 TODO:
 
-- count-to-6
-- tower-of-babel
+- perfschool

@@ -12,9 +12,11 @@
   "dependencies": {
     "count-to-6": "^0.8.5",
     "learnyounode": "^4.2.2",
-    "nodebot-workshop": "^3.2.1"
+    "nodebot-workshop": "^3.2.1",
+    "tower-of-babel": "^1.0.0"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "through2-map": "^3.0.0"
   }
 }
